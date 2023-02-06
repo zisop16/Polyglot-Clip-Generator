@@ -1,0 +1,4 @@
+{
+    "URL": "https://www.twitch.tv/loltyler1/clip/ProductiveVainDolphinDendiFace-cyuKN6pCKWqZlR1d?filter=clips&range=7d&sort=time",
+    "Headless (Y/N)": "N"
+}
